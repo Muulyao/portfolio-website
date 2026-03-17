@@ -24,7 +24,7 @@ This portfolio website was designed and developed to showcase my technical skill
 
 ## 📷 Preview
 
-(assets/screenshot.png)
+![Portfolio Screenshot](assets/screenshot.png)
 
 ## 🌍 Live Demo
 
